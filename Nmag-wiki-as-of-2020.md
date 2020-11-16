@@ -5,8 +5,8 @@ Until the server at University of Southampton is up for Nmag, you can refer the 
 
 **Index by title**
 
-  * [About this wiki](https://github.com/Venkat004/nmag/wiki/Nmag_wiki_as_of_2020#about-this-wiki)
-  * [Bugfix1](https://github.com/Venkat004/nmag/wiki/Nmag_wiki_as_of_2020#patch-to-fix-a-bug-arising-when-dealing-with-periodic-systems)
+  * [About this wiki](https://github.com/Venkat004/nmag/wiki/Nmag-wiki-as-of-2020#about-this-wiki)
+  * [Bugfix1](https://github.com/Venkat004/nmag/wiki/Nmag-wiki-as-of-2020#patch-to-fix-a-bug-arising-when-dealing-with-periodic-systems)
   * [Bug report](https://github.com/Venkat004/nmag/wiki/Nmag_wiki_as_of_2020#reporting-a-bug-to-the-nmag-developers)
   * [Compile cblaslapack](https://github.com/Venkat004/nmag/wiki/Nmag_wiki_as_of_2020#compile-nmag-with-blaslapack-versions-downloaded-automatically-by-petsc)
   * [Granular media](https://github.com/Venkat004/nmag/wiki/Nmag_wiki_as_of_2020#granular-media)
