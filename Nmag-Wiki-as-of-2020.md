@@ -1,3 +1,4 @@
+![Nmag Logo](https://nmag.readthedocs.io/en/latest/_images/nmaglogo500.png)
 **Index by title**
 
   * [About this wiki](https://github.com/Venkat004/nmag/wiki/Nmag-Wiki-as-of-2020#about-this-wiki)
