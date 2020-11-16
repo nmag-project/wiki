@@ -1,7 +1,7 @@
 **Index by title**
 
   * [About this wiki](https://github.com/Venkat004/nmag/wiki/FullWiki#about-this-wiki)
-  * [Bugfix1]()
+  * [Bugfix1](https://github.com/Venkat004/nmag/wiki/FullWiki#patch-to-fix-a-bug-arising-when-dealing-with-periodic-systems)
   * [Bug report]()
   * [Compile cblaslapack]()
   * [Granular media]()
