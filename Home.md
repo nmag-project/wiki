@@ -1,4 +1,4 @@
-# Nmag's Documentation: **
+# Nmag's Documentation:
 For full documentation, please refer https://nmag.readthedocs.io/en/latest/introduction.html
 
 # Nmag's Wiki at University of Southampton:
