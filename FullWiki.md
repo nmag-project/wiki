@@ -1,6 +1,6 @@
 **Index by title**
 
-  * [About this wiki](https://github.com/Venkat004/nmag/wiki/_new#about-this-wiki)
+  * [About this wiki](https://github.com/Venkat004/nmag/wiki/FullWiki#about-this-wiki)
   * [Bugfix1]()
   * [Bug report]()
   * [Compile cblaslapack]()
