@@ -1,3 +1,4 @@
+![Nmag Logo](https://nmag.readthedocs.io/en/latest/_images/nmaglogo500.png)
 # Nmag's Documentation:
 For full documentation, please refer https://nmag.readthedocs.io/en/latest/introduction.html
 
